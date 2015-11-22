@@ -13,3 +13,7 @@ Branches can be used to name notable versions/sub-versions of the project and ke
 How do the diagrams help you visualize the branch structure?
 They help me tell what branches are there for the project. And if there are any unreachable branches.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+All the commits of the two branches are merged and we represent it like that to show that it's a mix of the other commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
